@@ -1,3 +1,8 @@
+# React and Firebase practise
+# Personal chat and notification app
+This is a practise example for react and firebase. 
+This project contains different js files like Chat.js, Authentication.js, App.js, etc. along with its css files.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
